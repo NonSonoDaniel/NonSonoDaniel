@@ -1,2 +1,3 @@
-- 👋 Hi, I’m @Daniel
-
+-👋 Hi, I’m Daniel
+-👀 I’m interested in have fun
+-🌱 I’m currently learning javascript, TypeScript, Html (Node.js, Discord.js)
