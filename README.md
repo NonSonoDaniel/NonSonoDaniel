@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on S.A.D.I<br>🌱 I’m currently learning React.js<br>💬 Ask me about help<br>⚡ Fun fact
+🔭 I’m currently working on S.A.D.I<br>🌱 I’m currently learning React.js<br>💬 Ask me about help<br>⚡ Fun fact, AI can make you a cake :)
 
 
 ## 🌐 Socials:
